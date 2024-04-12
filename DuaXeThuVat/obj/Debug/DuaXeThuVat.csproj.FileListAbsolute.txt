@@ -1,0 +1,11 @@
+D:\GiupBeHocToan\DuaXeThuVat\bin\Debug\DuaXeThuVat.exe.config
+D:\GiupBeHocToan\DuaXeThuVat\bin\Debug\DuaXeThuVat.exe
+D:\GiupBeHocToan\DuaXeThuVat\bin\Debug\DuaXeThuVat.pdb
+D:\GiupBeHocToan\DuaXeThuVat\obj\Debug\DuaXeThuVat.csproj.AssemblyReference.cache
+D:\GiupBeHocToan\DuaXeThuVat\obj\Debug\DuaXeThuVat.csproj.SuggestedBindingRedirects.cache
+D:\GiupBeHocToan\DuaXeThuVat\obj\Debug\DuaXeThuVat.Form1.resources
+D:\GiupBeHocToan\DuaXeThuVat\obj\Debug\DuaXeThuVat.Properties.Resources.resources
+D:\GiupBeHocToan\DuaXeThuVat\obj\Debug\DuaXeThuVat.csproj.GenerateResource.cache
+D:\GiupBeHocToan\DuaXeThuVat\obj\Debug\DuaXeThuVat.csproj.CoreCompileInputs.cache
+D:\GiupBeHocToan\DuaXeThuVat\obj\Debug\DuaXeThuVat.exe
+D:\GiupBeHocToan\DuaXeThuVat\obj\Debug\DuaXeThuVat.pdb
